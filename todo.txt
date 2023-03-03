@@ -1,0 +1,7 @@
+A=move left
+D=move right
+Space= fire
+Q= angle negative
+E= angle positive
+W= power higher
+S= power lower
